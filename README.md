@@ -1,0 +1,2 @@
+# bluelanm.github.io
+blog
